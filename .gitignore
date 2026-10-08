@@ -1,0 +1,13 @@
+/bin/
+/coverage.out
+/tmp/
+
+.env
+.env.*
+!.env.example
+
+.idea/
+.vscode/
+*.swp
+*.test
+docs/working-plans/

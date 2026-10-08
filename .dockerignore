@@ -1,0 +1,7 @@
+.git
+.github
+.githooks
+bin
+coverage.out
+tmp
+*.md
